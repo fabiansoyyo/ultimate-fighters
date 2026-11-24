@@ -2,6 +2,10 @@
 
 Un juego de lucha 2D desarrollado con HTML5 Canvas, CSS y JavaScript puro.
 
+## 🎮 Demo Online
+
+[▶ Jugar Ultimate Fighters](https://fabiansoyyo.github.io/ultimate-fighters/)
+
 
 ## 📷 Captura de pantalla
 

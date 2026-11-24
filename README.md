@@ -2,9 +2,6 @@
 
 Un juego de lucha 2D desarrollado con HTML5 Canvas, CSS y JavaScript puro.
 
-## 🎮 Demo
-
-Próximamente disponible mediante GitHub Pages.
 
 ## 📷 Captura de pantalla
 

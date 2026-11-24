@@ -8,9 +8,8 @@ Próximamente disponible mediante GitHub Pages.
 
 ## 📷 Captura de pantalla
 
-Añade aquí una captura del juego cuando tengas una imagen.
+<img width="1420" height="865" alt="image" src="https://github.com/user-attachments/assets/1312d396-be41-4064-a7ae-98342e7ad140" />
 
-![Ultimate Fighters](screenshot.png)
 
 ## 🚀 Características
 
@@ -53,16 +52,6 @@ Añade aquí una captura del juego cuando tengas una imagen.
 | Puñetazo | K |
 | Patada | L |
 
-## 📂 Estructura del proyecto
-
-```text
-ultimate-fighters/
-│
-├── index.html
-├── style.css
-├── game.js
-└── README.md
-```
 
 ## 📚 Lo que aprendí
 

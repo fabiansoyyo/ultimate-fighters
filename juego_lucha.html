@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ultimate Fighters - Arcade</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+    <h1>ULTIMATE FIGHTERS</h1>
+    <p class="subtitle">¡Demuestra quién es el rey del combate!</p>
+
+    <div class="game-container">
+        <canvas id="game" width="960" height="540"></canvas>
+    </div>
+
+    <div>
+        <button onclick="restartGame()">REINICIAR COMBATE</button>
+    </div>
+
+    <div class="controls">
+
+        <div class="player-controls">
+            <h3>JUGADOR 1 - ROJO</h3>
+            <p>
+                Movimiento: <kbd>A</kbd> <kbd>D</kbd><br>
+                Saltar: <kbd>W</kbd><br>
+                Puñetazo: <kbd>F</kbd><br>
+                Patada: <kbd>G</kbd>
+            </p>
+        </div>
+
+        <div class="player-controls">
+            <h3>JUGADOR 2 - AZUL</h3>
+            <p>
+                Movimiento: <kbd>←</kbd> <kbd>→</kbd><br>
+                Saltar: <kbd>↑</kbd><br>
+                Puñetazo: <kbd>K</kbd><br>
+                Patada: <kbd>L</kbd>
+            </p>
+        </div>
+
+    </div>
+    <script src="game.js"></script>
+</body>
+
+</html>
